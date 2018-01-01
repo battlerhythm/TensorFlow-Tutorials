@@ -1,4 +1,4 @@
-# TensorFlow Tutorials Walkthrough
+# TensorFlow tutorials walkthrough
 
 골빈해커의 3분 딥러닝 교재를 따라 공부하고 있습니다.
 
@@ -20,7 +20,7 @@
 - Chapter 05 - TensorBoard, Saver [Done]
 - Chapter 06 - MNIST [Done]
 - Chapter 07 - CNN [Done]
-- Chapter 08 - Autoencoder
+- Chapter 08 - Autoencoder [Done]
 - Chapter 09 - GAN
 - Chapter 10 - RNN
 - Chapter 11 - Inception

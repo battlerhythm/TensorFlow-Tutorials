@@ -23,5 +23,5 @@
 - Chapter 08 - Autoencoder [Done]
 - Chapter 09 - GAN [Done]
 - Chapter 10 - RNN [Done]
-- Chapter 11 - Inception
+- Chapter 11 - Inception [Done]
 - Chapter 12 - DQN
